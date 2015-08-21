@@ -1,0 +1,9 @@
+C:\Users\Pina\Desktop\C# 1\111\Intro-Programming-Homework\09. AgeAfter10Y\bin\Debug\_09.AgeAfter10Y.exe.config
+C:\Users\Pina\Desktop\C# 1\111\Intro-Programming-Homework\09. AgeAfter10Y\bin\Debug\_09.AgeAfter10Y.exe
+C:\Users\Pina\Desktop\C# 1\111\Intro-Programming-Homework\09. AgeAfter10Y\bin\Debug\_09.AgeAfter10Y.pdb
+C:\Users\Pina\Desktop\C# 1\111\Intro-Programming-Homework\09. AgeAfter10Y\obj\Debug\09. AgeAfter10Y.csprojResolveAssemblyReference.cache
+C:\Users\Pina\Desktop\C# 1\111\Intro-Programming-Homework\09. AgeAfter10Y\obj\Debug\_09.AgeAfter10Y.exe
+C:\Users\Pina\Desktop\C# 1\111\Intro-Programming-Homework\09. AgeAfter10Y\obj\Debug\_09.AgeAfter10Y.pdb
+C:\Users\Pina\Desktop\C# 1\Intro-Programming-Homework\09. AgeAfter10Y\bin\Debug\_09.AgeAfter10Y.exe.config
+C:\Users\Pina\Desktop\C# 1\Intro-Programming-Homework\09. AgeAfter10Y\obj\Debug\_09.AgeAfter10Y.exe
+C:\Users\Pina\Desktop\C# 1\Intro-Programming-Homework\09. AgeAfter10Y\obj\Debug\_09.AgeAfter10Y.pdb

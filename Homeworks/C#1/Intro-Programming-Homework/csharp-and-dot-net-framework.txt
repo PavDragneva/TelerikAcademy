@@ -1,0 +1,1 @@
+C# is a programming language and .NET is a framework which provides "ground" for applications which are created to use it.C# uses the framework .NET.

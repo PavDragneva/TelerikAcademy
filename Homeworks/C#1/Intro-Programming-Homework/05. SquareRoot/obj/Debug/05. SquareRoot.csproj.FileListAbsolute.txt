@@ -1,0 +1,6 @@
+C:\Users\Pina\Desktop\C# 1\Intro-Programming-Homework\05. SquareRoot\bin\Debug\_05.SquareRoot.exe.config
+C:\Users\Pina\Desktop\C# 1\Intro-Programming-Homework\05. SquareRoot\bin\Debug\_05.SquareRoot.exe
+C:\Users\Pina\Desktop\C# 1\Intro-Programming-Homework\05. SquareRoot\bin\Debug\_05.SquareRoot.pdb
+C:\Users\Pina\Desktop\C# 1\Intro-Programming-Homework\05. SquareRoot\obj\Debug\05. SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Pina\Desktop\C# 1\Intro-Programming-Homework\05. SquareRoot\obj\Debug\_05.SquareRoot.exe
+C:\Users\Pina\Desktop\C# 1\Intro-Programming-Homework\05. SquareRoot\obj\Debug\_05.SquareRoot.pdb
