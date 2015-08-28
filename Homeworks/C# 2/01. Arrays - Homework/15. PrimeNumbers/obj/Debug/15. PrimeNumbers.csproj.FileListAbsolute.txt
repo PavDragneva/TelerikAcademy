@@ -1,0 +1,1 @@
+C:\Users\Pav\Desktop\C#\C#2\Arrays\ArraysHW\15. PrimeNumbers\bin\Debug\_15.PrimeNumbers.exe.config

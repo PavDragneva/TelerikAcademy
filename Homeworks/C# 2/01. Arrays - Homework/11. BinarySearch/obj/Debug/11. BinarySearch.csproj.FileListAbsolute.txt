@@ -1,0 +1,6 @@
+C:\Users\Pav\Desktop\TA\C#2\Arrays\ArraysHW\11. BinarySearch\bin\Debug\_11.BinarySearch.exe.config
+C:\Users\Pav\Desktop\TA\C#2\Arrays\ArraysHW\11. BinarySearch\bin\Debug\_11.BinarySearch.exe
+C:\Users\Pav\Desktop\TA\C#2\Arrays\ArraysHW\11. BinarySearch\bin\Debug\_11.BinarySearch.pdb
+C:\Users\Pav\Desktop\TA\C#2\Arrays\ArraysHW\11. BinarySearch\obj\Debug\11. BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Pav\Desktop\TA\C#2\Arrays\ArraysHW\11. BinarySearch\obj\Debug\_11.BinarySearch.exe
+C:\Users\Pav\Desktop\TA\C#2\Arrays\ArraysHW\11. BinarySearch\obj\Debug\_11.BinarySearch.pdb

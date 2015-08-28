@@ -1,0 +1,6 @@
+C:\Users\Pav\Desktop\C#\C#2\CShapt 2 Homework Templates with comments\02. Multidimensional Arrays - Homework\01. Fill the matrix\bin\Debug\_01.Fill_the_matrix.exe.config
+C:\Users\Pav\Desktop\C#\C#2\CShapt 2 Homework Templates with comments\02. Multidimensional Arrays - Homework\01. Fill the matrix\bin\Debug\_01.Fill_the_matrix.exe
+C:\Users\Pav\Desktop\C#\C#2\CShapt 2 Homework Templates with comments\02. Multidimensional Arrays - Homework\01. Fill the matrix\bin\Debug\_01.Fill_the_matrix.pdb
+C:\Users\Pav\Desktop\C#\C#2\CShapt 2 Homework Templates with comments\02. Multidimensional Arrays - Homework\01. Fill the matrix\obj\Debug\01. Fill the matrix.csprojResolveAssemblyReference.cache
+C:\Users\Pav\Desktop\C#\C#2\CShapt 2 Homework Templates with comments\02. Multidimensional Arrays - Homework\01. Fill the matrix\obj\Debug\_01.Fill_the_matrix.exe
+C:\Users\Pav\Desktop\C#\C#2\CShapt 2 Homework Templates with comments\02. Multidimensional Arrays - Homework\01. Fill the matrix\obj\Debug\_01.Fill_the_matrix.pdb

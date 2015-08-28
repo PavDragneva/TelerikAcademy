@@ -1,0 +1,1 @@
+C:\Users\Pav\Desktop\C#\C#2\CShapt 2 Homework Templates with comments\06. Strings and Text Processing - Homework\07. Encode-decode\bin\Debug\_07.Encode_decode.exe.config
