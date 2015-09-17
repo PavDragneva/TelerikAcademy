@@ -1,0 +1,3 @@
+<strong>Adapter</strong> конвертира интерфейса на даден клас в друг клас, който се изисква от клиента. Това позволява класовете да работят заедно, когато това е било невъзможно. Adapter pattern-a е полезен в ситуациите, в които вече съществуващ клас предоставя необходимите услуги, но не използва необходимия интерфейс.
+</ br>
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/ObjectAdapter.png/300px-ObjectAdapter.png)
